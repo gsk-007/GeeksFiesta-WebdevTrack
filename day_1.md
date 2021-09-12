@@ -20,4 +20,4 @@
 
 
 * [Tech Attack](https://github.com/gsk-007/Tech-Attack/commit/b2620081603f8caeb348887f9967647a4e4f6c92) 
-   * https://gsk-007.github.io/Tech-Attack/](https://github.com/gsk-007/Tech-Attack/commit/b2620081603f8caeb348887f9967647a4e4f6c92)
+   * [https://gsk-007.github.io/Tech-Attack/](https://gsk-007.github.io/Tech-Attack/)
